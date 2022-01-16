@@ -1,0 +1,15 @@
+.home .title{
+  /* rem - unidade relativa ao raíz da página, do tamanho padrão da página
+  Exemplo : tamnho padrão 14px, 2rem (14 * 2 = 28px)
+  */
+  font-size: 3rem;
+  font-weight: 300;
+  line-height: 1.2;
+}
+
+.home .subtitle{
+  /*
+    em -> relativo ao pai, no anterior
+  */
+  font-size: 1.1rem;
+}

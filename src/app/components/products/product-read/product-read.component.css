@@ -1,0 +1,17 @@
+table {
+  width: 100%;
+  border-radius: 20px;
+}
+
+a{
+  text-decoration: none;
+}
+
+.edit > i{
+  color : hsl(41, 100%, 53%); 
+  margin-right: 25px;
+}
+
+.delete > i{
+    color : #e35e6b;
+}
